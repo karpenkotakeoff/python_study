@@ -1,2 +1,4 @@
 # python_study
-completed course assignments 
+Сompleted course assignments 
+
+Course "Python: основы и применение" on Stepik https://stepik.org/course/512/syllabus
